@@ -140,7 +140,7 @@ pluralizelisttitles = false
 #     parent     = "section.shortcodes"
 [[menu.main]]
     name       = "¿Qué es Hugo?"
-    url        = "content/es/hugo/queEs.md"
+    url        = "/hugo/queEs/"
     weight     = 1
     parent     = "section.shortcodes"
 
