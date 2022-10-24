@@ -140,7 +140,7 @@ pluralizelisttitles = false
 #     parent     = "section.shortcodes"
 [[menu.main]]
     name       = "¿Qué es Hugo?"
-    url        = "/hugo/queEs/"
+    url        = "/es/hugo/queEs/"
     weight     = 1
     parent     = "section.shortcodes"
 
@@ -151,8 +151,8 @@ pluralizelisttitles = false
 #     weight     = 2
 #     parent     = "section.shortcodes"
 [[menu.main]]
-    name       = "Uso en la práctica"
-    url        = ""
+    name       = "Uso práctico"
+    url        = "/es/hugo/uso"
     weight     = 2
     parent     = "section.shortcodes"
 
@@ -200,7 +200,7 @@ pluralizelisttitles = false
 #     parent     = "section.headervariations"
 [[menu.main]]
     name       = "En sistema operativo Windows"
-    url        = ""
+    url        = "/es/hugo/windows"
     weight     = 1
     parent     = "section.headervariations"
 
@@ -212,7 +212,7 @@ pluralizelisttitles = false
 #     parent     = "section.headervariations"
 [[menu.main]]
     name       = "En sistema operativo Linux"
-    url        = ""
+    url        = "/es/hugo/linux"
     weight     = 2
     parent     = "section.headervariations"
 
