@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>herramientas on Tarea Hugo</title>
+    <link>http://example.org/tags/herramientas/</link>
+    <description>Recent content in herramientas on Tarea Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-Es</language><atom:link href="http://example.org/tags/herramientas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puzzle</title>
+      <link>http://example.org/es/puzzle/puzz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/puzzle/puzz/</guid>
+      <description>Conceptos que vamos a encajar en el puzzle:
+Babel es la herramienta que convierte cualquier característica moderna de JS en código compatible con versiones de navegadores antiguas.
+Webpack es un herramienta que nos permite agrupar nuestros módulos de JavaScript (en adelante, JS). Por &amp;ldquo;módulos&amp;rdquo; entendemos los diversos bloques de código que se encuentran en los archivos JS de los que se compone una app. Webpack los funde en un sólo archivo JS</description>
+    </item>
+    
+  </channel>
+</rss>

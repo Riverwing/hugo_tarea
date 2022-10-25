@@ -1,4 +1,9 @@
 <footer id="footer">
+
+
+
+
+
     <div class="container">
 
         {{ if isset .Site.Params "about_us" }}
@@ -84,6 +89,13 @@ _________________________________________________________ -->
         </div>
     </div>
 </div>
+
 <!-- /#copyright -->
 
 <!-- *** COPYRIGHT END *** -->
+{{ if .Page.Store.Get "hasMermaid" }}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+{{ end }}

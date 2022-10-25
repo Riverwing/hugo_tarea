@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>servidor on Tarea Hugo</title>
+    <link>http://example.org/tags/servidor/</link>
+    <description>Recent content in servidor on Tarea Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-Es</language><atom:link href="http://example.org/tags/servidor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definición servidor</title>
+      <link>http://example.org/es/cliente-servidor/servidor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/cliente-servidor/servidor/</guid>
+      <description>La parte de servidor está formada por un programa o script que es ejecutado por el servidor web, y cuya salida se envía al navegador del cliente. Tradicionalmente a este programa o script que es ejecutado por el servidor web se le denomina CGI.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,13 +8,93 @@
     <language>es-Es</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://example.org/es/sobre/sobre-mi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/sobre/sobre-mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comunicación cliente-servidor</title>
+      <link>http://example.org/es/cliente-servidor/comunicacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/cliente-servidor/comunicacion/</guid>
+      <description>Con mis propias palabras La comunicación entre cliente y servidor es aquella en la que se solicita una petición por parte del cliente, ésta se transmite por la red a un servidor (mediante una URL) el cual responde si dispone o no, si tiene autorizaición o no del recurso solicitado y se lo devuelve a través de la red al cliente.
+graph TD A[fa:fa-fire NAVEGADOR] --&gt;|HTTP GET PETICIÓN| B[fa:fa-server SERVIDOR WEB] B --&gt;|HTTP RESPUESTA| A B --&gt; |URL|C[fa:fa-spider APLICACION WEB]--&gt;|html-css,Javascript|B C --&gt;|datos| D[fa:fa-database BASE DE DATOS] --&gt; |datos|C </description>
+    </item>
+    
+    <item>
+      <title>Definición cliente</title>
+      <link>http://example.org/es/cliente-servidor/cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/cliente-servidor/cliente/</guid>
+      <description>La parte de cliente de las aplicaciones web está formada por el código HTML que forma la página web, con opción a código ejecutable mediante los lenguajes de scripting de los navegadores (JavaScript, VBScript, PerlScript) o mediante pequeños programas (applets) en Java.</description>
+    </item>
+    
+    <item>
+      <title>Definición servidor</title>
+      <link>http://example.org/es/cliente-servidor/servidor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/cliente-servidor/servidor/</guid>
+      <description>La parte de servidor está formada por un programa o script que es ejecutado por el servidor web, y cuya salida se envía al navegador del cliente. Tradicionalmente a este programa o script que es ejecutado por el servidor web se le denomina CGI.</description>
+    </item>
+    
+    <item>
+      <title>Instalación en Linux</title>
+      <link>http://example.org/es/hugo/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/hugo/linux/</guid>
+      <description>Paso a paso Iremos a la terminal de Ubuntu que es una ditribución de GNU/Linux e insertaremos el siguiente comando:
+sudo apt-get install hugo Para comprobar que versión tenemos instala de Hugo insertaremos lo siguiente: hugo version Como podemos observar en esta captura de pantalla trabajaremos con la versión de hugo v0.90.2 Para la instalación en windows pulsa aqui. </description>
+    </item>
+    
+    <item>
+      <title>Instalación en Windows</title>
+      <link>http://example.org/es/hugo/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/hugo/windows/</guid>
+      <description>Paso a paso Para instalar Hugo dentro de un sistema operativo Windows lo más conveniente será instalarse un gestor de paquetes para poder instalarlo tan solo con un comando. El gestor de paquetes escogido es Chocolatey.
+Primero de todo debemos validar que las políticas de ejecución estén habilitadas. Accedemos como administradores a PowerShell y escribimos lo siguiente:
+Get-ExecutionPolicy Si el resultador es Restricted tendremos que habilitarlas y confirmarlas :
+Set-ExecutionPolicy AllSigned Get-ExecutionPolicy Si has seguido con los pasos anteriores, no tendrías ninguna a instalar Chocolatey con la siguiente instrucción:</description>
+    </item>
+    
+    <item>
+      <title>Práctica de Hugo</title>
+      <link>http://example.org/es/hugo/uso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/hugo/uso/</guid>
+      <description>Objetivos En este práctica usaremos la herramienta Hugo para crear una página estática gracias a una plantilla que nos descargaremos desde la web de Hugo. La práctica consistirá de usar todas las posibilidades que nos de la plantilla para generar contenido gracias al lenguaje Markdown sobre diferentes apartados vistos en el inicio de curso.
+Primeros pasos Una vez instalado Hugo en el sistema operativo, continuamos creando un directorio local con el comando:</description>
+    </item>
+    
+    <item>
+      <title>Puzzle</title>
+      <link>http://example.org/es/puzzle/puzz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/puzzle/puzz/</guid>
+      <description>Conceptos que vamos a encajar en el puzzle:
+Babel es la herramienta que convierte cualquier característica moderna de JS en código compatible con versiones de navegadores antiguas.
+Webpack es un herramienta que nos permite agrupar nuestros módulos de JavaScript (en adelante, JS). Por &amp;ldquo;módulos&amp;rdquo; entendemos los diversos bloques de código que se encuentran en los archivos JS de los que se compone una app. Webpack los funde en un sólo archivo JS</description>
+    </item>
+    
+    <item>
+      <title>Que es Hugo</title>
       <link>http://example.org/es/hugo/quees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/es/hugo/quees/</guid>
-      <description>Definición Generador de sitios estáticos (enlace para explicar que es un sitio estatico)que permite generarlos en html,css y javascript. El contenido se genera en local ofreciendo una cantidad de herramientas amplia para hacer un desarrollo de calidad.
+      <description>Definición Hugo es un generador de sitios estáticos que permite generar archivos Markdown y a través de una plantilla devuelvo éstos en formato html,css y javascript. Este contenido se genera en local ofreciendo una cantidad de herramientas amplia para hacer un desarrollo de calidad.
 Hugo tiene las siguientes ventajas:
-Es rápido poruqe está realizado en html y no necesita procesamiento del lado servidor. Es seguro y escalable. Está desarrollado en Go Language y dispone de una gran cantidad de temas </description>
+Es rápido porque está realizado en html y no necesita procesamiento del lado servidor. Es seguro y escalable. Está desarrollado en Go Language y dispone de una gran cantidad de temas.</description>
     </item>
     
   </channel>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comunicacion on Tarea Hugo</title>
+    <link>http://example.org/tags/comunicacion/</link>
+    <description>Recent content in comunicacion on Tarea Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-Es</language><atom:link href="http://example.org/tags/comunicacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comunicación cliente-servidor</title>
+      <link>http://example.org/es/cliente-servidor/comunicacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/cliente-servidor/comunicacion/</guid>
+      <description>Con mis propias palabras La comunicación entre cliente y servidor es aquella en la que se solicita una petición por parte del cliente, ésta se transmite por la red a un servidor (mediante una URL) el cual responde si dispone o no, si tiene autorizaición o no del recurso solicitado y se lo devuelve a través de la red al cliente.
+graph TD A[fa:fa-fire NAVEGADOR] --&gt;|HTTP GET PETICIÓN| B[fa:fa-server SERVIDOR WEB] B --&gt;|HTTP RESPUESTA| A B --&gt; |URL|C[fa:fa-spider APLICACION WEB]--&gt;|html-css,Javascript|B C --&gt;|datos| D[fa:fa-database BASE DE DATOS] --&gt; |datos|C </description>
+    </item>
+    
+    <item>
+      <title>Definición cliente</title>
+      <link>http://example.org/es/cliente-servidor/cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/cliente-servidor/cliente/</guid>
+      <description>La parte de cliente de las aplicaciones web está formada por el código HTML que forma la página web, con opción a código ejecutable mediante los lenguajes de scripting de los navegadores (JavaScript, VBScript, PerlScript) o mediante pequeños programas (applets) en Java.</description>
+    </item>
+    
+    <item>
+      <title>Definición servidor</title>
+      <link>http://example.org/es/cliente-servidor/servidor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/cliente-servidor/servidor/</guid>
+      <description>La parte de servidor está formada por un programa o script que es ejecutado por el servidor web, y cuya salida se envía al navegador del cliente. Tradicionalmente a este programa o script que es ejecutado por el servidor web se le denomina CGI.</description>
+    </item>
+    
+  </channel>
+</rss>

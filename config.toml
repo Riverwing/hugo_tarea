@@ -64,31 +64,31 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Option 1: Default Page"
+    name       = "Opción 1: Pagina de inicio"
     url        = "/"
     weight     = 1
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
+    name       = "Opción 2: Definición de Hugo"
+    url        = "/es/hugo/queEs/"
     weight     = 2
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Option 3: Startup"
-    url        = "/"
+    name       = "Opción 3: Comunicación cliente-servidor"
+    url        = "/es/cliente-servidor/comunicacion/"
     weight     = 3
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
+    name       = "Opción 4: Puzzle"
+    url        = "/es/puzzle/puzz/"
     weight     = 4
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Option 5: Portfolio"
+    name       = "Opción 5: Sobre mi"
     url        = "/"
     weight     = 5
     parent     = "menu.home"
@@ -462,7 +462,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Puzzle"
     identifier = "menu.blog"
-    url        = "es/puzzle/puzzle/"
+    url        = "es/puzzle/puzz/"
     weight     = 4
 
 # [[menu.main]]
@@ -666,8 +666,8 @@ pluralizelisttitles = false
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Nuestro Blog"
+    subtitle = "Este blog ha sido realizado sin ánimo de lucro. El objetivo es practicar con la herramienta Hugo. Espero que les guste, un saludo y muchas gracias."
     hide_summary = false
 
 # [params.footer.recent_posts]

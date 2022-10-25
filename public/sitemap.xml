@@ -2,18 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/es/hugo/</loc>
+    <loc>http://example.org/es/sobre/sobre-mi/</loc>
   </url><url>
-    <loc>http://example.org/es/hugo/quees/</loc>
+    <loc>http://example.org/authors/andr%C3%A9s/</loc>
   </url><url>
     <loc>http://example.org/authors/</loc>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
+    <loc>http://example.org/tags/cliente/</loc>
+  </url><url>
+    <loc>http://example.org/tags/comunicacion/</loc>
+  </url><url>
+    <loc>http://example.org/es/cliente-servidor/comunicacion/</loc>
+  </url><url>
+    <loc>http://example.org/es/cliente-servidor/cliente/</loc>
+  </url><url>
+    <loc>http://example.org/es/cliente-servidor/servidor/</loc>
+  </url><url>
     <loc>http://example.org/es/</loc>
+  </url><url>
+    <loc>http://example.org/tags/herramientas/</loc>
+  </url><url>
+    <loc>http://example.org/tags/hugo/</loc>
+  </url><url>
+    <loc>http://example.org/tags/instalaci%C3%B3n/</loc>
+  </url><url>
+    <loc>http://example.org/es/hugo/linux/</loc>
+  </url><url>
+    <loc>http://example.org/es/hugo/windows/</loc>
+  </url><url>
+    <loc>http://example.org/tags/linux/</loc>
+  </url><url>
+    <loc>http://example.org/tags/practica/</loc>
+  </url><url>
+    <loc>http://example.org/es/hugo/uso/</loc>
+  </url><url>
+    <loc>http://example.org/es/puzzle/puzz/</loc>
+  </url><url>
+    <loc>http://example.org/es/hugo/quees/</loc>
+  </url><url>
+    <loc>http://example.org/tags/servidor/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url><url>
     <loc>http://example.org/</loc>
+  </url><url>
+    <loc>http://example.org/tags/tecnologias/</loc>
+  </url><url>
+    <loc>http://example.org/tags/windows/</loc>
   </url>
 </urlset>

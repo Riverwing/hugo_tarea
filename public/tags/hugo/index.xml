@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Tarea Hugo</title>
+    <link>http://example.org/tags/hugo/</link>
+    <description>Recent content in hugo on Tarea Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-Es</language><atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalación en Linux</title>
+      <link>http://example.org/es/hugo/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/hugo/linux/</guid>
+      <description>Paso a paso Iremos a la terminal de Ubuntu que es una ditribución de GNU/Linux e insertaremos el siguiente comando:
+sudo apt-get install hugo Para comprobar que versión tenemos instala de Hugo insertaremos lo siguiente: hugo version Como podemos observar en esta captura de pantalla trabajaremos con la versión de hugo v0.90.2 Para la instalación en windows pulsa aqui. </description>
+    </item>
+    
+    <item>
+      <title>Instalación en Windows</title>
+      <link>http://example.org/es/hugo/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/hugo/windows/</guid>
+      <description>Paso a paso Para instalar Hugo dentro de un sistema operativo Windows lo más conveniente será instalarse un gestor de paquetes para poder instalarlo tan solo con un comando. El gestor de paquetes escogido es Chocolatey.
+Primero de todo debemos validar que las políticas de ejecución estén habilitadas. Accedemos como administradores a PowerShell y escribimos lo siguiente:
+Get-ExecutionPolicy Si el resultador es Restricted tendremos que habilitarlas y confirmarlas :
+Set-ExecutionPolicy AllSigned Get-ExecutionPolicy Si has seguido con los pasos anteriores, no tendrías ninguna a instalar Chocolatey con la siguiente instrucción:</description>
+    </item>
+    
+    <item>
+      <title>Práctica de Hugo</title>
+      <link>http://example.org/es/hugo/uso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/hugo/uso/</guid>
+      <description>Objetivos En este práctica usaremos la herramienta Hugo para crear una página estática gracias a una plantilla que nos descargaremos desde la web de Hugo. La práctica consistirá de usar todas las posibilidades que nos de la plantilla para generar contenido gracias al lenguaje Markdown sobre diferentes apartados vistos en el inicio de curso.
+Primeros pasos Una vez instalado Hugo en el sistema operativo, continuamos creando un directorio local con el comando:</description>
+    </item>
+    
+    <item>
+      <title>Que es Hugo</title>
+      <link>http://example.org/es/hugo/quees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/hugo/quees/</guid>
+      <description>Definición Hugo es un generador de sitios estáticos que permite generar archivos Markdown y a través de una plantilla devuelvo éstos en formato html,css y javascript. Este contenido se genera en local ofreciendo una cantidad de herramientas amplia para hacer un desarrollo de calidad.
+Hugo tiene las siguientes ventajas:
+Es rápido porque está realizado en html y no necesita procesamiento del lado servidor. Es seguro y escalable. Está desarrollado en Go Language y dispone de una gran cantidad de temas.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,5 +6,95 @@
     <description>Recent content in Tags on Tarea Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-Es</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cliente</title>
+      <link>http://example.org/tags/cliente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/cliente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comunicacion</title>
+      <link>http://example.org/tags/comunicacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/comunicacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>herramientas</title>
+      <link>http://example.org/tags/herramientas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/herramientas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://example.org/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instalación</title>
+      <link>http://example.org/tags/instalaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/instalaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>http://example.org/tags/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>practica</title>
+      <link>http://example.org/tags/practica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/practica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>servidor</title>
+      <link>http://example.org/tags/servidor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/servidor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tecnologias</title>
+      <link>http://example.org/tags/tecnologias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/tecnologias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>http://example.org/tags/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/windows/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
