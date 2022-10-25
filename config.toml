@@ -461,8 +461,8 @@ pluralizelisttitles = false
 #     weight     = 5
 [[menu.main]]
     name       = "Puzzle"
-    identifier = "menu.blog"
-    url        = "es/puzzle/puzz/"
+    identifier = "menu"
+    url        = "/es/puzzle/puzz/"
     weight     = 4
 
 # [[menu.main]]
