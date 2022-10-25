@@ -16,6 +16,9 @@ Hugo tiene las siguientes **ventajas**:
 + Es seguro y escalable.  
 + Está desarrollado en Go Language y dispone de una gran cantidad de temas. 
 
+Aquí os dejo un video sobre Hugo:
+
+{{< youtube 6H0jLIKe0uw >}}
 
 
 

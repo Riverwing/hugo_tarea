@@ -258,7 +258,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Comunicación Cliente-Servidor"
-    url        = ""
+    url        = "/es/cliente-servidor/comunicacion/"
     weight     = 1
     parent     = "section.portfolio"
 
@@ -327,7 +327,7 @@ pluralizelisttitles = false
 #     parent     = "section.about"
 [[menu.main]]
     name       = "Cliente"
-    url        = ""
+    url        = "/es/cliente-servidor/cliente/"
     weight     = 1
     parent     = "section.about"
 
@@ -340,7 +340,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Servidor"
-    url        = ""
+    url        = "/es/cliente-servidor/servidor/"
     weight     = 2
     parent     = "section.about"
 
