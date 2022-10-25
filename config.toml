@@ -473,7 +473,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Sobre mi"
     identifier = "menu.faq"
-    url        = "/faq/"
+    url        = "/es/sobre/sobre-mi/"
     weight     = 5
 # [[menu.main]]
 #     identifier = "contact"
