@@ -13,6 +13,10 @@ author = "Andrés"
 # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
 style = "custom"
 
+# [params]
+#   mermaidInitialize = "{ \"theme\": \"dark\" }"
+
+
 # Logo
 
 disabled_logo = false #si lo ponemos a true saldra el logo_text
@@ -458,7 +462,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Puzzle"
     identifier = "menu.blog"
-    url        = "/blog/"
+    url        = "es/puzzle/puzzle/"
     weight     = 4
 
 # [[menu.main]]

@@ -34,3 +34,6 @@ choco install hugo -confirm
 Aquí os dejo un video para la instalación de Hugo en Windows:
 
 {{< youtube l7PHRA8t4Bw >}}
+
+
+#### Para la instalación en linux pulsa [aqui]({{< ref "linux.md" >}}).
