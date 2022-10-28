@@ -34,6 +34,7 @@ $ theme = 'hugo-universal-theme'
 
 ## Problemas encontrados
 Nos fue imposible el poner diferentes idiomas en este proyecto.
+Nuestra tema no se visualizan bien las tablas.
 No fuimos capaces de realizar el despliegue en GitHub Pages.
 
 ## Agradecimientos
