@@ -1,6 +1,7 @@
 +++
 title = "Instalación en Linux"
 tags = ["hugo","instalación","linux"]
+categories=["hugo"]
 banner = "../img/linux.jpeg"
 authors = ["Andrés"]
 +++

@@ -1,6 +1,7 @@
 +++
 title = "Comunicación cliente-servidor"
 tags = ["comunicacion"]
+categories=["cliente-servidor"]
 banner = "../img/cliente_servidor.png"
 authors = ["Andrés"]
 hasMermaid = true

@@ -1,6 +1,7 @@
 +++
 title = "Práctica de Hugo"
 tags = ["hugo","practica"]
+categories=["hugo"]
 banner = "../img/hugo.png"
 authors = ["Andrés"]
 +++

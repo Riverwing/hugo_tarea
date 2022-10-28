@@ -1,6 +1,7 @@
 +++
 title = "Instalación en Windows"
 tags = ["hugo","instalación","windows"]
+categories=["hugo"]
 banner = "../img/windows.jpeg"
 authors = ["Andrés"]
 +++

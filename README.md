@@ -34,6 +34,8 @@ $ theme = 'hugo-universal-theme'
 
 ## Problemas encontrados
 Nos fue imposible el poner diferentes idiomas en este proyecto.
+No fuimos capaces de realizar el despliegue en GitHub Pages.
+
 ## Agradecimientos
 Gracias a mi compañero Carlos Sesma por el [despliegue](https://hugotarea.vercel.app/) y a Samuel Bonet para el uso de Mermaid en la realización del grafo.
 

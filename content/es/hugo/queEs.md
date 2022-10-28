@@ -1,6 +1,7 @@
 +++
 title = "Que es Hugo"
 tags = ["hugo"]
+categories=["hugo"]
 banner = "../img/hugo.png"
 authors = ["Andrés"]
 +++
